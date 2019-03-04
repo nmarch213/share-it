@@ -1,0 +1,19 @@
+{
+  "name": "share-it",
+  "version": "0.0.1",
+  "description": "Share Expenses without the confrontation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmarch213/share-it.git"
+  },
+  "author": "Nicholas March",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmarch213/share-it/issues"
+  },
+  "homepage": "https://github.com/nmarch213/share-it#readme"
+}
