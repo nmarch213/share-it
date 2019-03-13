@@ -3,6 +3,6 @@ module.exports = {
   plugins: ['prettier'],
   rules: {
     'prettier/prettier': 'error',
-    'arrow-parens': 'always',
+    'arrow-parens': 0,
   },
 };
