@@ -9,6 +9,6 @@ export default createGlobalStyle`
     margin: 0;
     font-family: "Open Sans";
     font-weight: 400;
-    background: ${props => props.theme.background};
+    background: ${(props) => props.theme.background};
   }
 `;
